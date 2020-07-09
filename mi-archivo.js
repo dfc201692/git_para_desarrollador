@@ -1,2 +1,2 @@
-alert("Creado");
-console.log("archivo creado");
+alert("modificado");
+console.log("archivo modificado");
